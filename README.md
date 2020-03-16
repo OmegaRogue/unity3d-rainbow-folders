@@ -1,11 +1,3 @@
-# Discontinued
-
-This project is discontinued and deprecated. Unfortunately, our benefit from the open source project was too low to justify the extra effort to keep it alive.
-
-Meanwhile, development continues and new versions of the Rainbow Folders are now available exclusively on the [Asset Store](http://u3d.as/mor)
-
-Now back to original README content…
-
 # License
 
 All our code in this repo is covered under Apache 2.0 license:
